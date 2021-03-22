@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my repository.
+I earned a bachelor's degree in Software Engineering after graduating from South China University of Technology. I am currently an undergraduate student of Computer Science at Fudan University.
